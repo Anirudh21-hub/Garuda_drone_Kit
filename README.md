@@ -1,4 +1,5 @@
 Garuda Drone Setup
+
 The DroneKit application provides a framework for autonomous drone control using the DroneKit-Python library. It empowers developers to build mission-planning, telemetry, and autonomous navigation applications by interacting with drones programmatically through MAVLink protocols.
 
 The documentation covers hardware setup, communication systems, software requirements, and coding examples. Drone selection depends on use cases like surveillance, mapping, or payload delivery. Key considerations include payload capacity, flight range, endurance, GPS, and durability. Communication is facilitated by long-range outdoor CPEs like Tenda O3 (2.4GHz) and TP-Link CPE710 (5GHz), providing weatherproof, secure wireless links with directional antennas and WPA2 encryption.
