@@ -1,4 +1,4 @@
-#Garuda Drone Setup
+# Garuda Drone Setup
 
 The DroneKit application provides a framework for autonomous drone control using the DroneKit-Python library. It empowers developers to build mission-planning, telemetry, and autonomous navigation applications by interacting with drones programmatically through MAVLink protocols.
 
